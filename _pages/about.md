@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-My name ***Yinwei Zhang***. I am a Ph.D. candidate at the University of Arizona majoring in ***Industrial Engineering***. The University of Arizona locates in Tucson, southwestern America. The weather is super dry and the temperature is crazy here during the summer, so we don't have many green trees but saguaro cactus here.   
+My name ***Shenghao Xia***. I am a Ph.D. candidate at the University of Arizona majoring in ***Industrial Engineering***. The University of Arizona locates in Tucson, southwestern America. The weather is super dry and the temperature is crazy here during the summer, so we don't have many green trees but saguaro cactus here.   
 
 **About my Ph.D. career**
 
